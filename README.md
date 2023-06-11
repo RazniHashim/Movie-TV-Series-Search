@@ -38,4 +38,3 @@ Next open the **"index.html"** file.
 Then click on the button **"Find Movie Details"**.
 
 **You will be able to see all the details of the movie.**
-66
